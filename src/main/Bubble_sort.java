@@ -2,8 +2,8 @@ package main;
 
 public class Bubble_sort {
 
-	//Função troca 
-		public static void Swap(int vet[],int i, int j) {
+	//Função de troca do elemento
+	public static void Swap(int vet[],int i, int j) {
 			int aux = vet[i];
 			vet[i]= vet[j];
 			vet[j]=aux;
@@ -29,7 +29,7 @@ public class Bubble_sort {
 		//Vetor de teste 
 		int [] vetor = new int[] {3,5,7,6};
 				
-		//chando o procedimento
+		//chamando o procedimento
 		Bubble(vetor);
 				
 		//Saida do vetor
