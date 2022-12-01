@@ -1,3 +1,4 @@
 ## MENU
 
-- [Bubble_sort](./src/main/Bubble_sort.java)
+- [Bubble sort](./src/main/Bubble_sort.java)
+- [Selection sort](./src/main/Selection_sort.java)
